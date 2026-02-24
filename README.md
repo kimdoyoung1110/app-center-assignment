@@ -8,7 +8,7 @@
 ## 📝 Assignments
 - [x] **과제 1:** HTML, CSS 소스코드 주기적 Commit & Push
 - [ ] **과제 2:** 학습 내용 Notion 정리 및 게시 ( [노션 링크 바로가기](https://stealth-ghoul-4fd.notion.site/3110fa3de3eb80b1a241c906028779f6?v=3110fa3de3eb80daa96c000c7f8a9c9f&source=copy_link) )
-- [ ] **과제 3:** 기술 블로그(Tistory) 회고록 작성 ( [블로그 링크 바로가기](https://velog.io/@kdy9883/app-center-assigniment) )
+- [ ] **과제 3:** 기술 블로그(Velog) 회고록 작성 ( [블로그 링크 바로가기](https://velog.io/@kdy9883/app-center-assigniment) )
 
 ## 📂 Directory Structure
 ```text
